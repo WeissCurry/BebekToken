@@ -47,8 +47,8 @@ Follow these steps to get the project running locally.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-folder>
+    git clone https://github.com/WeissCurry/BebekToken
+    cd BebekToken
     ```
 
 2.  **Install dependencies:**
@@ -63,7 +63,7 @@ Follow these steps to get the project running locally.
 
     ```typescript
     // src/app/page.tsx
-    const CONTRACT_ADDRESS = "ST...your-contract-address.your-contract-name";
+    const CONTRACT_ADDRESS = "ST3HQ67G6GN7SDY331HPK07313ZR6XSJCSEVQS7M8.simple-token";
     ```
 
 4.  **Run the development server:**
